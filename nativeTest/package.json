@@ -1,0 +1,15 @@
+{
+  "name": "nativetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "CC0",
+  "optionalDependencies": {
+    "nativetest-linux": "https://gitpkg.now.sh/Hotspring-r/PlatformSpecificPackageTest/nativeTest-linux?main",
+    "nativetest-win": "https://gitpkg.now.sh/Hotspring-r/PlatformSpecificPackageTest/nativeTest-win?main"
+  }
+}
