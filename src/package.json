@@ -4,12 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "nativetest": "file:../nativeTest"
+    "nativetest": "https://gitpkg.now.sh/Hotspring-r/PlatformSpecificPackageTest/nativeTest?main"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "CC0"
 }
